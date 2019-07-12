@@ -1,0 +1,484 @@
+BCA
+III Sem
+ADVANCED    STATISTICAL   METHODS
+MULTIPLE CHOICE QUESTIONS AND ANSWERS
+1. Binomial distribution applies to -------------------.
+(a) Rare events (b) Dichotomous alternatives (c) Equally likely events (d) None of these.
+2. The moment generating function of binominal distribution is -------------------------.
+(a) (q+pet)n             (b)(qet+p)n                 (c) (q+pet)n-1                    (d)(qet+p)n-1
+3.The variance of the Binominal distribution is -------------------------.
+(a)npq   	(b)n(1-p) 	(c)np		(d)n 2p2
+4.The mean of the Binominal distribution is 
+(a) npq		(b)n(1-p)	(c)np		(d) n 2p2
+5. The co-efficient of Kurtosis of  Binominal distribution is --------------------.
+(a)     1-6pq         (b)1-6pq        (c)6pq-1     (d) npq-6pq
+          Npq                   npq               npq                    npq2               
+          
+
+6. The number of trails ‘n’ in Binominal distribution is -----------------.
+(a) Finite 	(b)Infinite 	(c) Negative 	(d) none of these.
+7. The mean of Binominal distribution (x10) (2/3)x(1/3)b-x ;
+X=0,1,2,-----------------------10 is ---------------------.
+(a)4              (b)10	 (c) 20/3	 (d)10/3.
+8. Ten coins are thrown simultaneously find the probability of getting at least 7 heads.
+(a) 176        (b) 10      (c) 120     (d) 175 	 
+    1024            1024       1024        1024
+9. Determine the B.D for which the mean is 4 and variance is 3. Find the parameters.
+(a)16  ¼   (b)16 ½ (c)16 ¾  (d) 12 ¼ 
+10. The mean and variance of Binominal distribution are 4 and 4/3 respectively. Find p (x≥1)
+(a) 0.99863	 (b) 1 	(c) 0	 (d) 0.7250.
+11. The mean and variance of BD are 8 and 4 respectively. Then p(x=1) is equal to
+(a) ½12  	 (b)1/24  	 (c)1/26		  (d)1/28
+12. If for a Binominal distribution B(n1p), n=4 and also p(x=2)=3 p(x=3),the value of p is 
+(a)9/11		 (b) 1 	(c)1/3		 (d) none of these.
+13.An experiment succeeds twice as often as it fails. The chance that in the next six Irials  there shall be at least 4 successors.
+(a)240/729 	(b) 489/729	 (c)496/729	 (d) none of these.
+14. A family of parametric distribution in which mean is equal to variance is 
+(a) Binominal distribution (b) poison distribution (c) Normal distribution (d) none of these.
+15. The Poisson distribution applies
+(a)Rare events (b) Dichotomous alternatives (c) Equally likely events (d) none of these.
+16. The mean of Poisson variate is -------------------.
+(a) Less than	 (b) Greater than 	(c) Equal to 	(d) Twice.
+17. The moment generating function of Poisson variate is 
+(a) e λ(et -1)  (b) e λ(et+1)   (c) e- λ(et -1)   (d) e -λ(et -1) .
+18. Suppose you independently throw a dart  n times. Each time you throw a dart, the prob of hilting the target  np. Denote by x the no. of times you hit the target  out of the n total times you throw a dart. The expected no. of hits is 
+(a) e(x)=np 	(b) E(x)=np2	 (c) e(x)=np(1-p) 		 (d)e(x)=n(1-p)  
+19. For a normal curve, the QD:MD:SD= ------------------.
+(a) 5:6:7	 (b) 10:12:15 	(c)2:3:4 	(d) none of these.
+20. The standard normal distribution is represented by ------------------.
+(a) X~N(  	(b)Z  	(c) N 		(d) none of these.
+ 21 . The pdf of normal distribution is 
+(a) f(x)=      e-1/2((( 2		(b) ) f(x)=      e-1/2  2
+(c)  f(x)=   e-1/2 X2			(d)f(x)= (x-m)2, ½  2
+22. If x is a normal variate with mean 20 and variance 64, the P[12≤X≤2] is 
+(a) 0.4332 	(b) 0.1189 	(c) 0.7475 	(d)5.
+23. For the normal variate X in Q.no22 the percentage of items 24 and 44 is 
+(a) 30.79 	(b) 19.27 	(c) 69.02	 (d) 30.98.
+24. If Z is std normal deviate, the proportion of items lying between Z=-0.5 and Z=-3.0 is 
+(a) 0.4987 	(b)0.1915	(c)0.3072 	(d)0.3098.
+25. If X is a normal variate representing the income in Rs. Per day with mean=50 and sd=10. If the no. of works in a factory is 1200, then the no. of workers having income more than RS. 6200 per day is 
+(a)462		 (b) 138 	(c) 738 		(d) none of these.
+26. Normal distribution curve with regard to bulginess’ is 
+(a) Mesokurtic 		(b) Lepto kurtic		 (c)Platy kurtic 		(d) not definite.
+27. The mean and variance of normal distribution 
+(a) Are same (b) Cannot be same (c) Are sometime equal (d) Are equal in the committing case as n
+28. Normal curve is 
+(a) Very flat	 (b) Bell shaped symmetrical about mean	 (c) Very peaked	 (d) Smorth.
+29. The normal distribution is a limiting case of poisson distribution when parameter.
+(a) λ→0 	(b)λ→  		(c)λ→∞ 	(d) λ<          .
+30. The normal distribution in a limiting case of binominal distribution if 
+(a) n→∞ ,p→0  (b)n→0,p→q  (c) n→∞, neither p nor q is small (d) n→∞ p→n.
+31.In normal curve 95% of observations are included in the range
+(a) µ±3      (b) µ±2   	 (c) µ±  	   (d) µ±4                  .
+32. For a normal distribution β1=----------------, β2=--------------.
+(a) 0,3 		(b) 3,0 		(c)3,3		 (d)0,0.
+33. The normal curves is --------------.
+(a) Uni modal	  (b) Bimodal 	(c) no modes	 (d) none of these.
+34.  If a r v X~N(40,52). Find the prob that 1X-40/>5.
+(a)0.47725 	(b) 0.31732 	(c) 0.00135 	(d)0.21186.
+35. The discrepancies between sample estimator and population parameter is termed as 
+(a) Human error (b) Formula error (c) Sampling error (d) non-sampling error.
+36. If a sample observations are x1,x2,----------------,xn, the formula for sample mean is 
+(a)  =     	(b)  =    		 (c)  =    xi  		(d)   =   xi2.
+37. A function of sample values are called -------------------.
+(a) Statistic 	(b) Parameter		 (c) Population		 (d)sample.
+38. If y1 and y2 are two x2- variates within n1 and n2 degrees of freedom then y1/n1÷ y2/n2. Follows -------------.
+(a) F(n1-1,n2-1)  		(b) F(n1 ,n2)	 (c) F(n1-1,n2) 	  (d) ) F(n1,n2-1)  .
+39. The pdf of X2  distribution is n/2-1.
+(a) F(x2)=(1/2)n-2/F(n/2)     e-x2/2  (x2)n/2-1.
+ (b)           F(x2)=(1/2)n/2-1                    e-x2/2     (x2)n/2-1. 
+                      Ѓ (n/2)
+   (c)             F(x2)=(1/2)n/2                          e-x2/2 -1    (x2)n/2-1. 
+                  Ѓ (n/2-1)
+     (d)               F(x2)=(1/2)n/2+1                    e-x2/2     (x2)n/2+1. 
+                           Ѓ (n/2+1)
+40. Standard deviation of a sampling distribution of a static is called the ------------------- of that statistic.
+(a) Standard error 	(b) Standard deviation 	(c) Parameter 	(d) none of these.
+41. The pdf of ‘t’ distribution is 
+ (a)     F(t)=                      (1+t2/n)-n+1/2
+           
+(b) )     F(t)=                      (1+t2/n)-n/2
+           
+(c)      F(t)=                      (1+t2/n+1/2)-n/2
+           
+(d) none of these.
+
+42. The relation between  the mean and variance of x2 with n. df is 
+(a) mean=2 variance 	(b) mean=variance 	(c) 2 mean= variance 	(d) none of these.
+43. If X~N(5,1), the pdf of normal variate is 
+(a) 2
+(b)  2
+(c)  2
+(d) none of these.
+
+44. The degrees of freedom for students t based on a random sample of size  n is 
+(a) n-1 		(b) n 		(c) n-2		 (d)  
+45. If n, the sample size is larger than 30, the students t distribution tends to 
+(a) Normal distribution (b) F-distribution (c) Lauchy distribution (d) Chi-square distribution.
+46. If X N(0,1) and Y x2/n, the distribution of the variate   follows.
+(a) launchy distribution (b) fisherst distribution (c)Students t distribution (d) none of these.
+47. Chi-square distribution curve with reguard to bulginess is 
+(a) mesokurtic	 (b) leptokurtic		 (c)platykurtic 		(d) not definite.
+48. The range of F- variate is 
+(a) -  	(b) 0 to 1 	(c) 0 to   	(d) - .
+49. The parameters of Fv1,v2 distribution are 
+(a)  v1and v2          (b) S12and S12            (c) 0 and  	               (d) none of these.
+50. F distribution was invented by 
+(a) R. A. Fisher           (b) G.W. Snedecor         (c) W.S Gosset           (d) all of these.
+51. The variable Y=-2  where all Xi are iid   (0,1) follows
+(a) x2(n)          (b) x2(2n)       (c) log-normal distribution         (d) none of these.
+52. The variable Y=-2 log x where X   , follows 
+(a)   	(b) f 	(c)t 	(d) none of these.
+53. Estimation of parameters in all scientific investigations is of 
+(a) Prime importance (b) no use (c) secondary importance (d) deceptive nature .
+54. Estimate and estimator are 
+(a) Synonyms (b)different (c) Related to population (d) none of these.
+55. An estimate is considered to be the best if its distribution is 
+(a) continuous (b) discrete (c) normal (d) co central  about the true parameter value.
+56. Sample mean is an unbiased estimate of -----------------.
+(a) Population mean (b) population variance (c) population standard deviation (d) none of these.
+57. The type of estimates are 
+(a) Print estimate (b) input estimate (c) estimation of confidence region (d) all of these.
+58. If an estimator in of population parameter   converges in probability to  as n  is said to be 
+(a) Sufficient 	(b) unbiased	 (c) consistent	 (d) efficient.
+59. The estimator   of  population  mean is 
+	N
+(a) An unbiased estimator (b) An consistent estimator (c) both A and B (d) neither A nor B.
+60. If  x1,x2,--------------xn  is a r s from a population  N I O, , the sufficient statistic for  is 
+(a)  	(b)  2 	 (c) ( 2  	 (d) none of these.
+61. If   x1,x2,--------------xn   is a r s from a population N( 2), the sufficient statistic
+(a)  2   	(b)   	(c)   
+62. Factorisation theorem for sufficiency is known as 
+(a) Rao- Blackwell theorem (b) Crammer –Rao theorem (c) Chapman-Robins theorem (d) Fisher Neyman.
+63. Consistency can specially be named as 
+(a) Simple consistency 	(b) mean- squared consistency 	(c) Both A and B 	(d) all of these.
+64.  Bias of an estimator can be 
+(a) Positive 	(b) negative 		(c) either positive or negative	 (d) always zero.
+65. If  x1,x2,--------------xn  is a r s from an infinite population where  =1/n  , the unbiased estimator the population variance  2 is ||
+(a)   s2 	(b)   s2 	(c)   s2 	 (d)   s2 .
+66. If  x1,x2,--------------xn  is a r s from an infinite population , an estimator for the population variance  2 is|
+(a)  2 is an unbiased estimator of  2
+(b)   2is biased estimator of  2
+(c)  2 is an unbiased estimator of  2
+(d) none of these.
+67. Consistancy of an estimator Tn of   means 
+(a) P[|Tn- ]=1      (b)lim P[|Tn- ]=1      (c)  | Tn- ]=1    (d)all of these.  
+68. If  x1,x2,--------------xn  is a random sample from a population  N ( 2), the estimator        is.
+                                                                                                                                                         N
+(a) A BAN estimator for   (b) A consistent estimator for  (c) A unbiased estimator for   (d) all of these.
+69. ---------------- is used for testing the independence of attributes.
+(a) x2 distribution 	(b) F- distribution	 (c) f-distribution 	(d) all of these.
+70. -------------------- is used for testing homogenily of data 
+(a) x2 distribution 	(b) F- distribution 	(c) f-distribution 	(d) all of these.
+71.  -              =t     follows a t-distribution with -----------degrees of freedom.
+s/ 
+(a)n-1		 (b)n 		(c)2n 		(d) n(n-1).
+72.  n1s12+n2s22    ( + )   = t follows t distribution  with --------------- degree of freedom.
+          N1+n2-2
+(a) (n1-1)(n2-1)		 (b) N1+n2-2 		(c) (N1+1)( n2+1)		 (d)   N1+n2+2.
+73. If   is the sample mean and   is the population mean, then the statistic is ----------------.
+(a) Z = 
+           SD of  
+ (b)     Z=  + 
+           SD of  
+ (c)Z=   - 
+(d) Z=   + 
+74. If   and   are the two sample mean d, then the statistic is -----------------.
+(a)     (c)    (d) none of these.
+75. If p is the sample proportion and |p is the population proportion, then the statistics is ---------------.
+(a) Z=   		 (b)  	   (c)    		  (d) 
+76.  if p1 and p2 are two sample proportation, then the statistic is 
+(a)      (b)     (c)      (d)  .
+77. ------------------ is  used for testing the significance  between two population means 
+(a) Z		 (b) x2 		(c) F		 (d)t.
+78. If Z1, Z2, --------------- , Zn are n standard normal variates then Z12, Z22,---------------- Zn2 follows x2 distribution with -------------- degree of freedom.
+(a) n        (b)2n        (c)n-1       (d)(2n-1).
+79. The ------------------ of SE is a measure of reliability of the sample.
+(a) same 	(b) reciprocal 	(c) standard deviation 	(d) none of these.
+80.                     follows F- distribution with ------------------ degrees of freedom.
+(a)n1-1, n2-1 		(b) n1,n2 	(c) n1+1,n2+1 		  (d)  
+81. The range of  t distribution is ----------------.
+(a) -   		 (b)-  	(c)-0 to +  	(d) 0 to 1.
+82. The range of normal distribution is ----------------.
+(a) 0 to   	 (b) -  	 (c) 0 to 1	 (d) - 
+83. ------------------ is used for testing the equality of means.
+(a) F 	(b)Z 		(c)X2 		 (d) t.
+84. ----------------- is used for testing the equality of variances.
+(a) F 	(b) X2 		(c) t 	(d)Z.
+85. SD of sample mean   is 
+(a)   		(b) 2		 (c)   	 (d) .
+86. The sample mean   is 
+(a)       (b)       (c)        2       (d)    2        .
+         N               ( N-1)                n                  ( N-1)                
+
+87. The height of normal curve is at its ------------------ at the mean.
+(a) Maximum 	(b) minimum 	(c) Equal 	(d) none of these.
+88. The normal curve is ----------------- shaped .
+(a) bell 		(b)Wave	 (c) Curve	 (d) none of these.
+89. The ordinate at ---------------divides the whole area into two equal  parts.
+(a) mean	 (b) mode	 (c) median	 (d) none of these.
+90. All odd moments of N.D are ----------------.
+(a) 1	(b)0	(c)both A and B 		(d) none of these.
+91.   covers ------------ area 
+(a) 68.53%	 (b) 95.25%	 (c) 68.27% 	(d) none of these.
+92. The value of Z=1.78
+(a) 0.3721 	(b) 0.4778 	(c) 0.4625	 (d) none of these.
+93. In a formal distribution 17% of the items are below 30 and 17% of the items are above 60. Find the mean and standard deviation.
+(a) 45,20 	(b) 45,16	 (c) 45,15.8 	(d) none of these.
+94. All odd order moments of students t distribution are ----------------.
+(a) finite 	(b) Zero		 (c) one 		(d) infinite.
+95. Measure of skerwness  of students t distribution is ---------------.
+(a) 0 	(b) 1	 (c) 2 	(d) 3.
+96. ----------------- is used to test of goodness of fit 
+(a) x2	(b)t 	(c)f 	(d)Z.
+97. t distribution is symmetrical about the -----------------.
+(a) mean 	(b)median 	(c) origin	 (d) mode.
+98. The mean of t distribution is ----------------.
+(a)1 	(b)  	(c) 0	 (d) .
+99. The variance of t distribution is ---------------.
+(a)    		(b) n 	(c) 2n		 (d) .
+100. The moment generating function of x2 distribution is 
+(a) (1-2t)   	 (b) (1-2 it )   	(c) (1-t) (1+2t)   .
+101. The idea of testing of hypothesis was set forth by 
+(a) R.A. Fisher	 (b) J. Neyman 		(c) E.L .Lehman		 (d) A. Wald.
+102. In 1933, the theory of testing of hypothesis was pounded by 
+(a) R.A. Fisher	 (b) J. Neyman 		(c) E.L .Lehman		 (d) Karl pearson .
+103.  A hypothesis may be classified as 
+(a) Simple 	(b) composite 		(c) null		 (d) all of the above 
+104.  The hypothesis under test is 
+(a) simple hypothesis (b) alternative hypothesis (c) null hypothesis (d) none of the above.
+105. A wrong decision about Ho leads to :
+(a) one kind of error (b) two kinds of error (c) three kinds of error (d) four kinds of error.
+106.  Whether a test is one-sided  or two-sided depends on 
+(a) alternative hypothesis (b) composite hypothesis (c) null hypothesis (d) simple hypothesis.
+107. Power of a test is related to 
+(a) Type 1 error 		(b) type 2 error 		(c) type 1 and 2 error  both	(d) none of the above .
+108. Level of significance is the probability of 
+(a) Type 1 error 		(b) Type 2 error       (c) not committing error    (d) any one of the above.
+109.  out of the two types of error in testing, the more severe error is ,
+(a) Type 1 error (b) Type 2 error (c) Both A and B are equally severe (d) no error is severe.
+110. A test based on test statistics is classified as 
+(a) randomized test         (b)non randomized test          (c) Sequential  test         (d)Bayer test.
+111. Size of critical region is known as 
+(a) power of the test (b) Size of type 2 error (c) critical value of  the test statistics (d) Size of the test.
+112.  Degrees of freedom is related to 
+(a) no. of observation in a test.		(b) Hypothesis under set 
+(c) no.of independent observation in a set	 (d) none of the above.
+113. A critical function provides the basis for 
+(a) accepting Ho. 	(b) Rejecting Ho.	 (c) No decision about Ho.	 (d) All of the above.
+114. A test which maximizes the power of the test for fixed   is known as 
+(a) Optimum test 	(b) randomized test 	(c) bayes test	 (d) derelished ratio test.
+115. A test T which is attest as powerful  as any other test of the same size, is called.
+(a) best test	 (b) most powerful test	 (c) uniformly most powerful test 	(d) none of these.
+116. Ney manson-pearson lemma procides,
+(a) An unbiased test	 (b) A most powerful test 	(c) an admissible test	 (d) Minimum test.
+117.Students t test was invented by ,
+(a) R. A. Fisher 	 (b) G. W. Snedecor 	(c) W. S . gusset 	(d) W.C. Cochran.
+118. Students t- test is applicable in case of 
+(a) small samples (b) for samples of size between 5 and 30 (c) Large samples (d) none of the above .
+119. A population is distributed as N=( ,10.24). A sample of 576 items has a mean 4.7. the value of the statistic  to test Ho: =5.2 is,
+(a) 3.75 	(b)28.125 	(c)-3.75 	(d) none of these.
+120. It was claimed that the average life of dry battery cells is 60 hours. A large sample of 441 cells had mean life 42 hours with a variance of 81 hours. Do the data ascertain the claim.
+(a) The claim is refuted (b) the claim is accepted (c) no decision is possible (d) none of the above.
+121. A sample of 12 specimen taken from a normed population is expected to have a mean 50mg/cc. The sample mean has a mean 64mg/cc with a variance of 25. To test Ho:50Vs, h1: , you will use,
+(a) Z-test	 (b)  -test 	(c) F-test 	(d)t-test.
+122. For the problem given in Q.no:21, the test reveals that for   , H0 should be( given to .05,11=2.201).
+(a) rejected	 (b)accepted	 (c) left undecided	 (d) none of the above.
+123. Students t-test is applicable only when,
+(a) the variate values are independent.		(b) the variable is distributed normally.
+(c) the sample is not large.			(d) all of the above.
+124. To test H0:  when the population S.D is known , the appropriate test is,
+(a) t-test	 (b)Z-test 	(c)Chi-test 	(d) none of the above.
+125. Test of hypothesis  H0:  leads to 
+(a) One sided left –tailed test (b) one sided right tailed test (c) two-tailed test (d) none of the above.
+126. Testing H0:  against  1500 leads to:
+(a) One sided lower tailed test		(b)One sided upper tailed test 
+(c)Two tailed test			 (d) all of the above.
+127. Testing H0:  leads to 
+(a) One sided upper tailed test (b) One sided lower tailed test (c) Two tailed test (d) none of the above.
+128. Paired t-test is applicable when than observations in two samples are:
+(a) Paired	 (b) correlated 		(c) Equal in number 	(d) all of the above.
+129. The mean difference between 9 paired observations is 15.0 and the standard deviations off difference  is 5.0. the value of statistic t is :
+(a) 27 		(b) 9 	(c) 3 	(d)zero.
+130. The degrees of freedom for statistic-t for paired t-test based on n pairs of observations is :
+(a) 2(n-1) 	(b) n-1 		(c) 2n-1 	(d) none of the above.
+131. To test an hypothesis about proportions of items in a class, the usual test is :
+(a) t-test	 (b)f-test 	(c)Z-test	 (d) none of the above.
+132. To test H0:p=0.4 vs. H1p 0.4 in binominal population there are eight persons out of fifteen who favored a proposal. The value of statistic- Z is :
+(a)5.813 	(b)1.08 		(c)7.32 		(d) none of the above.
+133. Standard error of the difference of proportions (p1-p2) in two classes under the hypothesis H0: p1=p2 
+With usual notations is:
+(a)   + )   	 (b)   + )   	 (c)  + )   	 (d)  + 
+134. The formula in general for testing the hypothesis for proportions H0: p1=p2  vs.     H1:  p1 p2  is
+(a) Z=   	(b)  Z=   	(c) ) Z=   	 (d) none of the above.
+135. The hypothesis that the population variance has a specified value can be tested by:
+(a) F-test 	(b) Z-test	 (c)   test	 (d) none of these.
+136. The test statistic to  be used to the test H0: 2=c vs. H1: 2 c with the usual notations is:
+(a)  = (n-1)s2	(b)  = (n-1)s2	(b)  = ns2	(d) all of the above.
+                   C2                                           C                                      C2
+137. Statistic  -test  H0: 2= 02 is based on a sample of size n has degrees of freedom equal to :
+(a) n-1                    (b) n               (c) n+1              (d) none of these.
+138. Degrees of freedom for statistic –X2 in case of contingency table of order (2*2) is 
+(a)  3             (b) 4                  (c) 2               (d) 1.
+139. In a multi nominal distribution with 4 classes, the degree of freedom for   is :
+(a) 3             (b) 4                (c) 2                (d) 1.
+140. Test statistic for testing  H0:  Vs. H1:  is :
+(a) Z=         	(b) Z=           (c) Z=    	(d) none of these..
+141. Degrees of freedom  for chi-square in case of contingency table of order (4*3) are :
+(a) 12                 (b) 9             (c) 8                 (d) 6.
+142. Degrees of freedom  for   in case of dischotomised frequencies are:
+(a) 4               (b)2                (c) 1              (d) 0.
+143. When d.f for    are 100 or more, chi-square is approximated to :
+(a) t-distribution	 (b) F-distribution	 (c) Z- distribution 	(d) none of the above.
+144. Equality of two population variences can be tested by:
+(a) Bartlett’s test 	(b) F-test 	(c) Both A and B		 (d) Neither A nor B.
+145. Analysis of variances utilizes:
+(a) F-test           (b)  -test		 (c) Z-test	 (d) t-test.
+146. Two sample of size 10 and 8 had sample means 18 on and 12 on with variances 25 and 16. Supposing that the samples have been drawn from normal populations N( 1, 12) and N( 2, 22), the value of statistic-t for testing  H0: 1= 2 under  12 22  is :
+(a) 2.67               (b) 2.75                (c) 1.33                  (d) 2.83.
+147. A manufacturer claims that his items could not have a large variance.18 of his items has a variance=0.033. The value of statistic   to the test H0: 2=1 is :
+(a) 30.30            (b) 5.55              (c) 0.56             (d) none of these.
+148. The range of statistic:  is:
+(a) -1 to +1.	(b) - .		(c) 0 to   .		(d) 0 to 1.
+149. Range of statistic  –t is:
+(a) -1 to +1.	(b) - .		(c) 0 to   .	(d) 0 to 1.
+150. Range of the variance ratio F is :
+(a)-1 to +1.	(b) - .		(c) 0 to   .	(d) 0 to 1.
+151.A coin is tossed 400 times and it turns up head 216 items. The hypothesis that the coin is unbiased can be tested by :
+(a)  -test 	(b) Z-test	 (c) both A and B.	 (d) neither A and B.
+152. It is expected that 50% people of a city are cinema goers. A survey of 1600 people revealed that 35% people go to cinema. The value of statistic –Z is
+(a) 12.0             (b)6.0	 (c) 12.58 	(d) -12.0.
+153. a random sample of size 20 from a normal population gives a mean 42 and a variance 25. To test that population standard deviation is 8, the value of statistic X2 is 
+(a) 7.42                  (b) 15.62           (c) 51.20           (d) none of these.
+154. Degrees of freedom of X2 in Q.no.53 is 
+(a) 20           (b) 24v             (c) 7             (d) 19.
+155.  The value of statistic X2 is 0 if 
+(a)   	(b) oi=ei , for all I 	(c) ei is large 	 (d) all of the above.
+156. Statistic Z= -                 is used to test the null hypothesis.
+                       + .
+(a) H0: 1+ 2=0 	 (b) H0: 1- 2=0  	(c) H0: = 0(a constant)		(d) none of the above.
+157. In a contingency table, the expected frequencies are computed under 
+(a) null hypothesis H0              (b) Alternative hypothesis H1 
+ (c) H0 and H1 both 	(d) no consideration of hypothesis 
+158. Which of the following is a research hypothesis?
+(a) Two population means are equal.
+(b) Intelligent people have more reading habit.
+(C)population correlation co-efficient is zero.
+(d) Two populations follows the same distribution.
+159. Which of the following with usual notations is not a statistical hypothesis. 
+(a) H: 2=  2	(b) H: 12 12
+(c)H:p1=p2	((d) H: people suffering from T.B belong to the poor section of the society.
+160. If the calculated value of chi- square is  greater than its degrees of freedom , then
+(a) Null hypothesis be accepted directly
+(b) Null hypothesis be rejected straight away.
+(c)   -table be consulted to arrive at a decision about the null hypothesis.
+(d) all the above.
+161. Calculated value of chi-square less than its degrees of freedom leads to 
+(a) acceptance of H0 directly.	(b) Rejection of H0  straight away.
+(c) No decision about H0 .	(d) none of the above.
+162. In general a contingency table is a 
+(a) one dimensional table (b) Two dimensional table (c) three dimensional table (d) multi dimensional table.
+163. In testing the equality of several population means  by F-test, the assumption is 
+(a) Population are continuous (b) population variances are homogeneous (c) populations  are  correlated. (d) all the above.
+164. The test of goodness of fit of assumed population means
+(a) testing a hypothesis about its mean.
+(b) testing a hypothesis about its variances.
+(c)to make a comparison between observed and expected number of observations.
+(d) none of the above.
+ 165. Formula for the standard error of the difference between proportions p1-p2 under the hypothesis 
+H: p1 p2 with usual rotation is 
+(a)   0q0 (  + )         (b) 0q0   (  + )              (c) 0q0 (  + )             (d)  + 
+166. The hypothesis H: =  ) H: 1  can be tested by the statistic
+(a) Z=|s1-s2|	(c) Z=   |s1-s2|
+ 2   +s22 2   +s22
+         n1           n2                                                  2n1     2n2
+
+(b)Z=| s1-s2	(d) none of the above.
+  
+167. Fisher’s exact test can be used to test 
+(a) the independence of two attributes.                     (b) Equality of proportions in two classes 
+(c)  Both A and B.                           (d) None of the above.
+168. Coefficient of contingency is calculated when 
+(a) the attributes are independent.            (b) The attributes are associated.
+(c) both A and B.                                             (d) Neither A nor B.
+169. The value of coefficient of contingency lies between
+(a) 0 and  	(b) 0 and 1	 (c) 0 to 100	 (d) -1 and +1.
+170. Homogeneity of several variances can be tested by 
+(a) Bartlett’s test	 (b) Fisher’s exact test	 (c) F test	 (d) t test.
+171. Customarily the large variance in the variance ratio for F-statistic is taken.
+(a) in the denominator        (b) in the numerator        (c) either way      (d) none of the above.
+172. Formula for chi-square statistic in a 2*2 contingency table under Yates correction is 
+ (a) n(|ad-bc|- )2/D   	   (b) n(ad-bc- )2/D      (c) (ad-bc- )2/D        (d)    n( )2    .
+Where D=(a+b) (b+d) (a+c) (c+d). 
+
+	B1	B2
+   A1	2	28
+A2	13	7
+ 173. The value of statistic chi-square for a contingency table.
+After yate’s correction is   
+
+(a)625/28 	 (b) 4225/252  	  (c)845/2520		 (d) none of these.
+174. If two sample of size 9 and 11 have means 6.8 & 8.8 and variances 36 and 25 respectively from two population N( 1, 2) and N ( 2, 2), the absolute value of statistic t for testing H0= 1= 2  is ,
+(a) 0.148	 (b) 1.83	 (c) 0.8		 (d) none of the above.
+175. Assume that the daily sales of petrol follows exponential distribution . The hypothesis H that the sales of petrol is 1000 liters per day is tested against the hypothesis that it is 1500 liters per day. If the sales on a day is 1200 liters or more, H0 is rejected, the size of type 1 error is, 
+(a) –e-1.2 	(b) e1.2		 (c)e-1.2 		(d) none of the above.
+176. For the problem given in Q.no.75, the size of type 2 error is, 
+(a) 1-e-0.8 	 (b) 1-e0.8 	(c) e-0.8-1 	(d) none of the above.
+177. In testing of a coin, the probability of turning up a head be p. The hypothesis are H0:p=0.4 Vs.
+H1:p=0.6 . H0 is rejected if there are 5 or more heads in six tosses. Then the size of type1 error is, 
+(a) 0.041 	(b) 0.037	 (c) 0.029	 (d) none of the above.
+178. For the test given in Q.no.77, the size of type 2 error is 
+(a) 0.767	 (b) 0.762 	(c)0.233	 (d) none of the above.
+179. For the problem given in Q.no.77, the power of the test is ,
+(a)  ) 0.767 	(b) 0.762 	(c)0.233	 (d) none of the above.
+180. It is expected that 50%people of a city are cinema goers. A survey of 1600 people revealed that 35% people go to cinema. The value of statistic Z is 
+(a) 12	 (b) 6 	(c) 12.58 	(d) -12.
+181. A normal population has a mean of 0.5 and S.D 6. The probability that the sample mean of 625 items of a sample will be negative is 
+(a) .0188 	(b).365	 (c) .4812	 (d).135.
+182. The claimed average life of electric bulbs is 2000 hrs with a S.D=250 hrs. To make 95% sure that the bulbs should not fall below the claimed average life by more than 5%, sample size should be 
+(a)24	 (b)16 		(c)41 		(d) none of the above.
+183. Given the sample statistics n1=400 n2=500.   =24.5  =20 s1=2.5  s2=2 . the value of test statistics to test H0:  1= 2, when  12= 22.
+(a)Z=44.47	 (b) Z=8.97 	(c)Z=30 		(d) none of the above.
+184. From the above question, the hypothesis H0: 1 2 is 
+(a) Accepted        (b) Rejected          (c) not possible to be tested        (d) none of the above.
+185. From the population of 200 items with S.D=3, a sample of size n is drawn. If it is as desired .That the sample mean differs from population mean by 1 unit or more is controlled at  =.05, the value of smallest n is 
+(a) 35		 (b) 6		 (c) 12 		(d) 312.
+186. An experiment consisted of two storage practices. In the first storage practice, out of 100 fruits. 5 were putrefied and in the second , out of 150 fruits, 5 were putrefied. Can it be concluded that the second storage practice is better than first?
+(a) no		 (b) yes 		(c) not possible  to decide	(d) none 
+187. A die is thrown 60 times and number of times the following faces were obtained.
+Faces:          	 1		2		3		4	5	6	
+No. of times: 	14		7		5		8	10	16.
+ .5,5=11.07.
+(a)The die is not fair	 (b) The die is fair	 (c) no conclusion 	(d) none of the above.
+188. For the above question , the value of statistic   is 
+(a) 1.8 		(b) 9	 (c) 40.96	 (d) none of the above.
+189. For the Q.no.87 d.f of statistic   are 
+(a)6 	(b)4 	(c)5 	(d)1.
+190. Given the following eight sample values -4,-3,-3,0,3,3,4,4, the value of students t test H0: =0 is 
+(a) 2.75 	(b).97		 (c)3.3		 (d) .41.
+191. If all frequencies of classes are same, the value of   is 
+(a) 1	 (b)  		(c)zero 		(d) none of the above.
+192. The value of statType equation here.istic  is zero if 
+(a)   		(b) oi=ei ,vi 	(c)ei is large 	(d) all the above.
+193. The mean and S.D of a set of values are 15 and 5 respectively. Then the value of the students t is calculated to test H0: =10. If each sample value is increased by 2, the value of t will be 
+(a) decreased 		(b) Increased 		(c) same	 (d) all the above.
+194. A random sample of size 20 from a normal population gives a mean 42 and variance 25.To test that the population standard deviation is 8, the value of statistic   is
+(a)7.42 		(b)15.62 	(c)51.2 		(d) none of the above.
+195. Degrees of freedom for   in the above question is 
+(a) 20 		(b) 24 		(c) 7		 (d) 19.
+196. The  best critical region consists of
+(a) Extreme positive values       (b) extreme negative values         (c) Both A and B          (d) neither A nor B.
+197.A sample of 36 measurements shows a S.D of 0.07 .Test of hypothesis H0 that the true S.D is .05 against that it is not at 5% level of significance reveals that 
+(a) H0 is accepted          (b) H0 is rejected            (c) not possible to test          (d) none of the above.
+198. A contingency table having a zero count is called
+(a) A complete contingency table.	(b) An incomplete contingency table .
+(c) Abnormal contingency table.		(d) none of the above.
+199. For testing that a bi variant random sample has come from on uncorrected population the appropriate test is 
+(a) Normal deviate test 		(b)  2 		(c) F 		(d)t.
+200. A variable which is used in a contingency table to explain the response variable is known as 
+(a) random variable 	(b)Discrete variable	 (c) Explanatory variable.
+ANSWERS
+1.B	2.B	3.A	4.C	5.A	6.A	7.C	8.A	9.A	10.A	11.C	12.A	13.C	14.B	15.A	16.C	17.A	18.A	19.B	20.B	21.A	22.C	23.A	24.C	25.B	26.A	27.B	28.B	29.C	30.C	31.B	32.A	33.A	34.B	35.D	36.B	37.A	38.A	39.A	40.A	41.A	42.C	43.C	44.A	45.A	46.B	47.B	48.D	49.A	50.B	51.B	52.A	53.A	54.B	55.C	56.A	57.D	58.C	59.C	60.B	61.D	62.D	63.D	64.C	65.D	66.B	67.B	68.	69. A	70.A	71.A	72.B	73.A	74.B	75.B	76.B	77.A	78.A	79.B	80.A	81.A	82.D	83.A	84.A	85.C	86.A	87.A	88.A	89.A	90.B	91.C	92.C	93.C	94.B	95.A	96.A	97.C	98.C	99.D	100.A.  101.B	102.D	103.D	104.C	105.B	106.A	107.B	108.B	109.B	110.B	111.D	112.C	113.D	114.A	115.C	116.D	117.C	118.B	119.C	120.A	121.D	122.A	123.D	124.B	125.B	126.A	127.C	128.D	129.B	130.B	131.C	132.D	133.A	134.A	135.C	136.C	137.A	138.D	139.A	140.B	141.D	142.C	143.C	144.C	145.A	146.D	147.C	148.C	149.B	150.C	151.C	152.D	153.A	154.D	155.B	156.B	157.A	158.B	159.D	160.C	161.A	162.D	163.B	164.D	165.A	166.C	167.C	168.B	169.B	170.A	171.B	172.A	173.B	174.C	175.C	176.A	177.A	178.A	179.C	180.D	181.A	182.B	183.C	184.B	185.A	186.B	187.B	188.B	189.B	190.D	191.C	192.B	193.B	194.A	195.D	196.C	197.B	198.B	199.D	200.C
+
+
+
